@@ -1,0 +1,988 @@
+,Turkish,English
+0,bir,One
+1,ve,And
+2,olmak,to be
+3,bu,This
+4,için,for
+5,o,he
+6,ben,I
+7,demek,means
+8,çok,A lot
+9,yapmak,to do
+10,ne,What
+11,gibi,like
+12,daha,more
+13,almak,to take
+14,var,there is
+15,kendi,own
+16,gelmek,to come
+17,ile,with
+18,vermek,to give
+19,ama,But
+20,sonra,later
+21,kadar,much
+22,yer,place
+23,en,#NAME?
+24,insan,person
+25,degil,not
+26,her,each
+27,istemek,to want
+28,yil,year
+29,çikmak,to leave
+30,görmek,to see
+31,gün,day
+32,biz,We
+33,gitmek,to go
+34,is,work
+35,sey,thing
+36,ara,Search
+37,ki,that
+38,bilmek,to know
+39,el,hand
+40,zaman,time
+41,ya,either
+42,çocuk,child
+43,iki,two
+44,bakmak,to look
+45,çalismak,to work
+46,içinde,inside
+47,büyük,big
+48,yok,no
+49,baslamak,to start
+50,yol,path
+51,kalmak,to stay
+52,neden,From where
+53,siz,you
+54,konu,Subject
+55,yapilmak,be done
+56,iyi,Good
+57,kadin,Woman
+58,ev,house
+59,ise,whereas
+60,diye,saying
+61,bulunmak,have
+62,söylemek,to say
+63,göz,eyelash
+64,gerekmek,need
+65,dünya,World
+66,bas,head
+67,durum,situation
+68,yan,side
+69,geçmek,to go past
+70,onlar,them
+71,yeni,new
+72,önce,before
+73,baska,Another
+74,hal,status
+75,su,This
+76,girmek,to enter
+77,ülke,country
+78,yemek,food
+79,hiç,none
+80,bile,even
+81,nasil,How
+82,bütün,all
+83,karsi,opposite
+84,bulmak,to find
+85,böyle,like this
+86,yasamak,to live
+87,düsünmek,to think
+88,ayni,same
+89,iç,drink
+90,ancak,however
+91,kisi,person
+92,bunlar,these
+93,veya,or
+94,ilk,first
+95,göre,according to
+96,ön,front
+97,son,end
+98,biri,someone
+99,önemli,important
+100,yüz,face
+101,hem,both
+102,göstermek,to show
+103,etmek,to do
+104,alt,lower
+105,getirmek,to bring
+106,kullanmak,to use
+107,çünkü,Because
+108,taraf,side
+109,simdi,Now
+110,adam,man
+111,onun,her
+112,diger,other
+113,artik,Now
+114,üzerinde,on
+115,ses,sound
+116,hep,always
+117,durmak,stop
+118,kiz,girl
+119,tüm,all
+120,çekmek,to pull
+121,konusmak,to talk
+122,para,money
+123,anlamak,to understand
+124,anne,mom
+125,az,little
+126,bazi,some
+127,baba,father
+128,hayat,life
+129,küçük,Small
+130,fazla,more
+131,bilgi,information
+132,an,moment
+133,sormak,to ask
+134,bunun,this
+135,öyle,like that
+136,yine,again
+137,saglamak,to ensure
+138,sonuç,conclusion
+139,kullanilmak,to be used
+140,dis,external
+141,ad,name
+142,yani,well
+143,süre,duration
+144,dönmek,return
+145,açmak,open
+146,oturmak,to sit
+147,anlatmak,to explain
+148,birakmak,to leave
+149,hemen,immediately
+150,saat,hour
+151,yas,age
+152,sorun,problem
+153,devlet,state
+154,sahip,owner
+155,sira,order
+156,yazmak,to write
+157,yüzde,percentage
+158,ay,moon
+159,atmak,to throw
+160,tutmak,to hold
+161,bunu,this
+162,olay,event
+163,düsmek,to fall
+164,duymak,to listen
+165,söz,promise
+166,güzel,Beautiful
+167,sevmek,to love
+168,biraz,A little
+169,zor,difficult
+170,çikarmak,subtract
+171,su,This
+172,koymak,to put
+173,tek,only
+174,sistem,system
+175,birlikte,together
+176,verilmek,to be given
+177,kim,who
+178,alinmak,to be taken
+179,genç,youth
+180,kapi,door
+181,kitap,book
+182,üzerine,over
+183,burada,Here
+184,gece,night
+185,alan,area
+186,birbiri,each other
+187,iste,at work
+188,beklemek,to wait
+189,uzun,LONG
+190,hiçbir,no
+191,bugün,Today
+192,dönem,period
+193,arkadas,friend
+194,ürün,product
+195,aile,family
+196,üç,fly
+197,okumak,to read
+198,erkek,Male
+199,herkes,everyone
+200,güç,strength
+201,belki,maybe
+202,gerçek,real
+203,tam,full
+204,ilgili,relating to
+205,iliski,relationship
+206,çevre,environment
+207,eski,old
+208,aramak,to call
+209,yasam,life
+210,halk,people
+211,yakin,close
+212,bey,gentleman
+213,tarih,history
+214,özellik,feature
+215,bölüm,section
+216,özel,special
+217,akil,mind
+218,kimse,noone
+219,pek,much
+220,eger,if
+221,gerek,necessary
+222,özellikle,especially
+223,anlam,meaning
+224,yüksek,high
+225,banka,bank
+226,kez,times
+227,ayak,foot
+228,tasimak,to carry
+229,geri,back
+230,toplum,society
+231,araç,vehicle
+232,madde,article
+233,tür,type
+234,karar,decision
+235,görülmek,to be seen
+236,hava,weather
+237,sayi,number
+238,grup,group
+239,oda,room
+240,biçim,format
+241,olusmak,to consist of
+242,haber,news
+243,Allah,God
+244,ayrica,Moreover
+245,gelen,incoming
+246,birkaç,a few
+247,soru,question
+248,arka,back
+249,kazanmak,to win
+250,yazi,writing
+251,okul,school
+252,açik,open
+253,ögrenmek,to learn
+254,sürmek,to spread
+255,dil,language
+256,sirket,company
+257,kaynak,source
+258,bitmek,run out
+259,program,program
+260,devam etmek,to continue
+261,hareket,movement
+262,renk,colour
+263,açilmak,open
+264,hak,right
+265,inanmak,to believe
+266,çalisma,study
+267,açi,angle
+268,parça,piece
+269,gazete,newspaper
+270,olusturmak,to create
+271,tabi,subject to
+272,deger,value
+273,tanimak,to recognise
+274,yapi,structure
+275,doktor,doctor
+276,gelir,income
+277,görev,duty
+278,amaç,aim
+279,bölge,area
+280,üzere,about to
+281,müsteri,customer
+282,zaten,already
+283,telefon,telephone
+284,egitim,education
+285,deniz,sea
+286,ikinci,second
+287,kalkmak,to get up
+288,hatta,even
+289,etki,effect
+290,gelismek,to develop
+291,geçen,last
+292,vücut,body
+293,düsünce,thought
+294,milyon,million
+295,oynamak,play
+296,degismek,changing
+297,temel,basis
+298,yaratmak,create
+299,ulasmak,to reach
+300,sanmak,to think
+301,geçirmek,put in
+302,kültür,culture
+303,kurmak,to create
+304,fakat,but
+305,buna,this
+306,resim,picture
+307,isik,light
+308,içmek,to drink
+309,hanim,woman
+310,hizmet,service
+311,ihtiyaç,need
+312,nokta,point
+313,yön,direction
+314,evet,Yes
+315,oyun,game
+316,artmak,increase
+317,yeniden,again
+318,islem,process
+319,kisa,short
+320,kolay,easy
+321,hangi,Which
+322,oran,ratio
+323,aslinda,Actually
+324,kabul etmek,to accept
+325,orada,there
+326,uzak,far
+327,bilgisayar,computer
+328,gelecek,future
+329,görünmek,seem
+330,örnegin,for example
+331,ogul,son
+332,dinlemek,to listen
+333,uygun,suitable
+334,lira,lira
+335,üretim,production
+336,dakika,minute
+337,unutmak,to forget
+338,yürümek,to walk
+339,böylece,like this
+340,kötü,bad
+341,araba,car
+342,agiz,mouth
+343,duygu,feeling
+344,uygulamak,to apply
+345,hâlâ,still
+346,örnek,example
+347,birçok,A lot
+348,izlemek,to watch
+349,derece,degree
+350,mümkün,possible
+351,söyle,Like this
+352,duvar,wall
+353,on,front
+354,sanat,art
+355,ana,mother
+356,hastalik,illness
+357,ögrenci,student
+358,televizyon,television
+359,yöntem,method
+360,masa,table
+361,ölmek,to die
+362,takim,set
+363,üst,top
+364,kafa,head
+365,müzik,music
+366,ayrilmak,To leave
+367,enerji,energy
+368,üniversite,university
+369,spor,sport
+370,türlü,kinds
+371,can,life
+372,ragmen,despite
+373,kisim,part
+374,ölüm,death
+375,sürekli,continually
+376,saglik,health
+377,çesitli,various
+378,bundan,from this
+379,hissetmek,to feel
+380,oysa,whereas
+381,sabah,morning
+382,internet,Internet
+383,teknik,technical
+384,disari,outside
+385,merkez,centre
+386,ortam,environment
+387,yerine,in its place
+388,düzey,level
+389,köy,bay
+390,yönetim,management
+391,asagi,down
+392,cevap,reply
+393,yatmak,to lie down
+394,toprak,soil
+395,isim,name
+396,aksam,evening
+397,arastirma,research
+398,götürmek,take away
+399,katilmak,to join
+400,yoksa,or?
+401,kurulmak,set up
+402,ödemek,pay
+403,sanki,as if
+404,kan,blood
+405,hasta,patient
+406,sehir,city
+407,inmek,to get down
+408,sunmak,to present
+409,bilinmek,to be known
+410,hafta,week
+411,trafik,traffic
+412,hesap,bill
+413,otomobil,car
+414,yabanci,foreign
+415,davranis,behaviour
+416,mutfak,kitchen
+417,kent,city
+418,bazen,Sometimes
+419,belli,clear
+420,ayri,separate
+421,fiyat,price
+422,hakkinda,about
+423,kaldirmak,to pick up
+424,kol,arm
+425,yalniz,alone
+426,hazirlamak,to prepare
+427,cam,pine
+428,sonunda,finally
+429,yavas,slow
+430,gerekli,necessary
+431,önem,importance
+432,koca,husband
+433,yanlis,wrong
+434,varlik,presence
+435,art,art
+436,ilgi,interest
+437,sana,to you
+438,satis,sales
+439,içeri,inside
+440,dogal,natural
+441,sahip olmak,have
+442,ekonomik,economic
+443,aci,angle
+444,hayir,No
+445,korumak,to protect
+446,kat,floor
+447,ekonomi,economy
+448,genel,general
+449,belirtmek,to indicate
+450,fotograf,Photograph
+451,savas,war
+452,mal,goods
+453,saç,hair
+454,kaybetmek,to lose
+455,kalan,remainder
+456,degistirmek,to change
+457,dört,four
+458,gerçekten,Really
+459,sayfa,page
+460,teknoloji,technology
+461,kurum,organisation
+462,bes,five
+463,sektör,sector
+464,genis,wide
+465,kagit,paper
+466,koku,smell
+467,sag,Right
+468,sicak,hot
+469,yüzyil,century
+470,cadde,street
+471,pazar,Sunday
+472,sürdürmek,to continue
+473,kullanim,use
+474,sinif,class
+475,ask,love
+476,dogmak,be born
+477,agir,heavy
+478,tekrar,again
+479,günes,sun
+480,sigara,cigarette
+481,agaç,tree
+482,kelime,word
+483,bina,building
+484,es,spouse
+485,kaçmak,to escape
+486,parti,party
+487,yatak,bed
+488,yazar,writer
+489,kulak,ear
+490,ögretmen,teacher
+491,sebep,reason
+492,sol,left
+493,peki,Alright
+494,yag,oil
+495,yüzden,why
+496,anlasilmak,be understood
+497,varmak,to arrive
+498,gülmek,to laugh
+499,kural,rule
+500,satmak,to sell
+501,siir,poem
+502,göndermek,to send
+503,basari,success
+504,firma,company
+505,hükümet,government
+506,kalp,heart
+507,kesmek,to cut
+508,proje,project
+509,sart,condition
+510,hiz,speed
+511,köse,corner
+512,vurmak,hit
+513,model,model
+514,balik,fish
+515,piyasa,market
+516,görüs,opinion
+517,bura,here
+518,hazirlanmak,prepare
+519,miktar,amount
+520,birinci,first
+521,meydan,square
+522,ölçü,measurement
+523,seçmek,to choose
+524,uygulanmak,be applied
+525,bahçe,garden
+526,sevgi,love
+527,ekmek,bread
+528,boyunca,along
+529,kosmak,to run
+530,dolu,full
+531,kurulus,establishment
+532,saye,thanks
+533,korkmak,to be scared
+534,yardim,help
+535,karsilasmak,to encounter
+536,malzeme,material
+537,hos,pleasant
+538,köpek,dog
+539,ünlü,famous
+540,büyümek,grow
+541,dolasmak,to wander
+542,oldukça,increasingly
+543,üstelik,besides
+544,yasanmak,to live
+545,beyaz,white
+546,istek,request
+547,öte,beyond
+548,denmek,to try
+549,kardes,brother
+550,çekilmek,retreat
+551,nerede,where
+552,çalmak,to play
+553,korku,fear
+554,meslek,job
+555,polis,police
+556,yalnizca,Only
+557,açiklamak,to explain
+558,fikir,idea
+559,hizli,fast
+560,pencere,window
+561,ugrasmak,to strive
+562,tas,stone
+563,ates,fire
+564,fark,difference
+565,yetmek,enough
+566,çogu,most
+567,kimi,who
+568,kosul,condition
+569,mahalle,neighbourhood
+570,mutlaka,definitely
+571,tane,unit
+572,üretmek,to produce
+573,üstüne,over
+574,dayanmak,to resist
+575,ince,thin
+576,kaç,how much
+577,ortak,partner
+578,tip,medicine
+579,görüntü,image
+580,beri,since
+581,ders,lesson
+582,baskan,minister
+583,karsilik,opposite
+584,kurtulmak,to be saved
+585,numara,number
+586,defa,times
+587,edilmek,to be made
+588,bati,West
+589,fark etmek,to notice
+590,herhangi bir,any
+591,sinema,cinema
+592,degisik,strange
+593,hedef,aim
+594,uyumak,to sleep
+595,dost,friend
+596,yanmak,burn
+597,anlayis,understanding
+598,asil,royal
+599,basmak,print
+600,kenar,edge
+601,kontrol,control
+602,çevirmek,turn
+603,din,religion
+604,güçlü,strong
+605,henüz,yet
+606,plan,plan
+607,beyin,brain
+608,elektrik,electric
+609,kari,wife
+610,üstünde,above
+611,et,meat
+612,saglanmak,be provided
+613,söylenmek,to be grumbled
+614,çizgi,line
+615,uç,fly
+616,üye,member
+617,cilt,skin
+618,ruh,soul
+619,sevgili,beloved
+620,yaklasmak,approach
+621,süreç,period
+622,bakis,view
+623,bilim,science
+624,ileri,forward
+625,ifade,expression
+626,beden,body
+627,hatirlamak,to remember
+628,kaza,accident
+629,iyice,thoroughly
+630,dag,mountain
+631,kapatmak,to close
+632,adim,my name
+633,ciddi,serious
+634,çözüm,solution
+635,etkilemek,to influence
+636,belediye,council
+637,gelisme,development
+638,seçim,vote
+639,aglamak,to cry
+640,bagli,connected
+641,kavram,concept
+642,artirmak,increase
+643,faaliyet,activity
+644,zarar,damage
+645,derin,deep
+646,salon,living room
+647,çesit,sort
+648,kesilmek,cut off
+649,seyretmek,to watch
+650,birden,suddenly
+651,içermek,to contain
+652,sayilmak,be counted
+653,toplamak,to collect
+654,asmak,exceed
+655,bagirmak,to shout
+656,sorumluluk,responsibility
+657,davranmak,to behave
+658,mektup,letter
+659,soguk,cold
+660,canli,live
+661,idi,was
+662,makine,machine
+663,yararlanmak,benefit
+664,yasli,old
+665,bos,empty
+666,acaba,I wonder
+667,maç,match
+668,yönetici,executive
+669,getirilmek,to be brought
+670,metre,metre
+671,tutulmak,to be held
+672,kalite,quality
+673,bitki,herb
+674,degisiklik,change
+675,ilaç,medicine
+676,kredi,credit
+677,yasa,law
+678,basarili,successful
+679,birer,one by one
+680,imkan,facility
+681,ceza,punishment
+682,her sey,everything
+683,incelemek,to examine
+684,top,ball
+685,uzman,expert
+686,doldurmak,to fill
+687,kanal,channel
+688,mekân,place
+689,uymak,to suit
+690,yillik,yearly
+691,dolayisiyla,therefore
+692,yazilmak,to be written
+693,ait,belonging
+694,parmak,finger
+695,saymak,to count
+696,atilmak,embark on
+697,belirlemek,to determine
+698,normal,normal
+699,hele,all in all
+700,ilke,principle
+701,rol,role
+702,sarki,song
+703,eleman,Workman
+704,hazir,ready
+705,benzemek,to resemble
+706,bir sey,Something
+707,hoca,teacher
+708,boy,size
+709,günlük,daily
+710,politika,policy
+711,suç,crime
+712,niye,Why
+713,sahne,scene
+714,sokmak,sting
+715,adet,piece
+716,koltuk,armchair
+717,kurtarmak,to save
+718,sanatçi,artist
+719,tercih etmek,to prefer
+720,uzanmak,to lie down
+721,asama,stage
+722,eklemek,to add
+723,orman,forest
+724,ayirmak,to separate
+725,düzen,order
+726,faiz,interest
+727,genellikle,Generally
+728,her zaman,Always
+729,hikaye,story
+730,hücre,cell
+731,ora,there
+732,roman,novel
+733,vergi,tax
+734,yakmak,burn
+735,agabey,brother
+736,basin,Press
+737,destek,support
+738,giymek,to wear
+739,hata,mistake
+740,sinir,border
+741,birlik,unity
+742,eser,work
+743,karsilamak,to meet
+744,yari,half
+745,yeterli,sufficient
+746,birey,individual
+747,karanlik,darkness
+748,otobüs,bus
+749,sanayi,industry
+750,bebek,baby
+751,vatandas,citizen
+752,bakan,minister
+753,kere,times
+754,millet,people
+755,reklam,advert
+756,yükselmek,rise
+757,boyut,dimension
+758,dergi,magazine
+759,enflasyon,inflation
+760,sosyal,social
+761,birisi,someone
+762,geçmis,past
+763,hastahane,hospital
+764,olma,being
+765,toplanti,meeting
+766,gazeteci,journalist
+767,içerisi,inside
+768,inanç,belief
+769,nitelik,qualification
+770,üzeri,above
+771,bitirmek,finish
+772,gerçeklesmek,happen
+773,giris,entrance
+774,rahat,comfortable
+775,toplam,total
+776,beraber,together
+777,dükkan,shop
+778,gizli,hidden
+779,benzer,similar
+780,deri,skin
+781,dönüsmek,turn into
+782,mücadele,struggle
+783,problem,problem
+784,servis,service
+785,tedavi,treatment
+786,yesil,green
+787,bakanlik,ministry
+788,baski,oppression
+789,tepki,reaction
+790,cümle,sentence
+791,dilemek,wish
+792,özgürlük,freedom
+793,gene,again
+794,kimlik,identity
+795,mesele,issue
+796,üçüncü,third
+797,belirlenmek,be determined
+798,degerlendirmek,to evaluate
+799,ilginç,interesting
+800,sürücü,driver
+801,süt,milk
+802,yakalamak,to capture
+803,esya,furniture
+804,uluslararasi,international
+805,aday,applicant
+806,agirlik,weight
+807,milyar,billion
+808,saglikli,healthy
+809,sikinti,problem
+810,Tanri,God
+811,tavir,attitude
+812,toplumsal,social
+813,yayin,broadcasting
+814,dikkat etmek,to be careful
+815,son derece,extremely
+816,toplanmak,collect
+817,yatirim,investment
+818,hafif,light
+819,karismak,interfere
+820,tehlike,danger
+821,vakit,time
+822,daire,apartment
+823,firsat,opportunity
+824,islemek,handle
+825,karistirmak,to mix up
+826,katki,contribution
+827,öykü,story
+828,tamamen,completely
+829,uçak,aeroplane
+830,yanit,response
+831,doga,nature
+832,evlenmek,to marry
+833,burun,nose
+834,çikar,interest
+835,elbette,certainly
+836,isçi,employee
+837,isletme,business
+838,kisaca,briefly
+839,magaza,shopping centre
+840,medya,media
+841,yüzünden,because
+842,artis,increase
+843,çikarilmak,be removed
+844,kamu,public
+845,sigorta,insurance
+846,yaz,Summer
+847,yürek,heart
+848,belge,document
+849,çaba,effort
+850,her gün,every day
+851,ifade etmek,to express
+852,risk,risk
+853,söz etmek,mention
+854,sözcük,word
+855,demokrasi,democracy
+856,tuz,salt
+857,cami,mosque
+858,çag,age
+859,düsük,low
+860,etraf,around
+861,hizla,quickly
+862,olanak,possibility
+863,öldürmek,kill
+864,öteki,other
+865,sene,year
+866,bozulmak,break down
+867,ilgilenmek,to take care of
+868,meyve,fruit
+869,takilmak,to hang around
+870,tatli,sweet
+871,bacak,leg
+872,degisim,change
+873,kanun,law
+874,rüzgar,wind
+875,cumhuriyet,republic
+876,gelistirmek,to develop
+877,tarz,style
+878,yedi,seven
+879,azalmak,decrease
+880,baglamak,to connect
+881,cep telefonu,mobile phone
+882,iletisim,communication
+883,müdür,manager
+884,otel,hotel
+885,yayimlanmak,be published
+886,zevk,pleasure
+887,binmek,to get on
+888,güvenlik,security
+889,hukuk,law
+890,kilmak,make
+891,modern,modern
+892,okur,reader
+893,silah,weapon
+894,talep,request
+895,yildiz,star
+896,yogun,busy
+897,asker,soldier
+898,basit,simple
+899,denilmek,to be called
+900,gaz,gas
+901,uygulama,APPLICATION
+902,üretilmek,produce
+903,beyan,declaration
+904,besin,food
+905,dün,Yesterday
+906,görüsmek,to meet
+907,yaklasik,approximately
+908,alisveris,shopping
+909,bilinç,consciousness
+910,çerçeve,frame
+911,lazim,required
+912,mevcut,available
+913,tüketici,consumer
+914,uzatmak,to lengthen
+915,yönelik,oriented
+916,at,horse
+917,baglanmak,connect
+918,mesela,for example
+919,neredeyse,almost
+920,site,site
+921,yardimci olmak,help
+922,abla,older sister
+923,çiçek,flower
+924,hepsi,all
+925,saygi,respect
+926,ücret,fee
+927,yetenek,talent
+928,kilo,kilo
+929,paylasmak,to share
+930,sert,hard
+931,yani sira,Besides the
+932,çay,tea
+933,gider,expense
+934,kesin,definite
+935,zengin,rich
+936,asla,never
+937,laf,word
+938,örgüt,organization
+939,ticaret,trade
+940,yaptirmak,have it made
+941,boyun,neck
+942,cihaz,device
+943,denge,balance
+944,giderek,increasingly
+945,sirt,back
+946,dolayi,because
+947,kahve,coffee
+948,kas,eyebrow
+949,meclis,council
+950,öteki,other
+951,ugrasmak,to strive
+952,adres,address
+953,belirtilmek,be specified
+954,pasa,Pasha
+955,sicaklik,heat
+956,tamam,Ok
+957,güven,trust
+958,marka,brand
+959,yaprak,leaf
+960,yarar,benefit
+961,yayilmak,spread
+962,akmak,flow
+963,çizmek,to draw
+964,düsünülmek,to be considered
+965,gönül,heart
+966,hayal,dream
+967,ilerlemek,to go forward
+968,sarap,wine
+969,yukarida,above
+970,altin,gold
+971,düzenlemek,to organise
+972,satin almak,to buy
+973,sunulmak,be presented
+974,temiz,clean
+975,vitamin,vitamin
+976,ek,additional
+977,geç,late
+978,hareket etmek,act
+979,yumurta,egg
+980,asiri,extreme
+981,eylem,action
+982,istenmek,to be wanted
+983,kesim,cut
+984,kriz,crisis
+985,birim,unit
+986,kapanmak,shut up
